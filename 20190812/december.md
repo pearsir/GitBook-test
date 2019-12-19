@@ -32,32 +32,32 @@ description: “十二月的某一天阳光显得特别刺眼” 杨宗纬《One
 | 2 | Jurkat 3' RACE cDNA | Jurkat-a-F, TCRa-F | UPM | negative |
 | 3 | Jurkat 3' RACE cDNA | Jurkat-b-F, TCRb-F | UPM | negative |
 
-* [ ] **HcAb total RNA RT &  PCR**
+* [x] **HcAb total RNA RT &  PCR**
 
 1. RT
 
-| ID | Template | 5'  TS oligo  | 3' RT Primer |
-| :--- | :--- | :--- | :--- |
-| 1 | HcAb total RNA | SMART | Oligo-dT |
-| 2 | HcAb total RNA | SMARTNNN | Oligo-dT |
-| 3 | HcAb total RNA | SMART | mIgG1-HindgeR |
+| ID | Template | 5'  TS oligo  | 3' RT Primer |  |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | HcAb total RNA | SMART | Oligo-dT |  |
+| 2 | HcAb total RNA | SMARTNNN | Oligo-dT |  |
+| 3 | HcAb total RNA | SMART | mIgG1-HindgeR |  |
 
 2. PCR
 
 | ID | Template | 5'  primer | 3' Primer | Result |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | HcAb 5' RACE cDNA | UPM | Hindge-R |  |
-| 2 | HcAb 5' RACE cDNA | V-primer | Hindge-R |  |
-| 3 | HcAb 5' RACE cDNA | V-primer | J-primer |  |
+| 1 | HcAb 5' RACE cDNA | UPM | Hindge-R | no band |
+| 2 | HcAb 5' RACE cDNA | V-primer | Hindge-R | okay |
+| 3 | HcAb 5' RACE cDNA | V-primer | J-primer | okay |
 
-* [ ] **Duo-V2 construction, 5' CMV-hcK & 3' CMV-hck 重新制备**
+* [x] **Duo-V2 construction, 5' CMV-hcK & 3' CMV-hck 重新制备**
 
-| ID | Template, type | 5'  primer | 3' Primer | Result |
-| :--- | :--- | :--- | :--- | :--- |
-| a | pTT5-mIgKL-hCK, plasmid | pTT5-S1-F | TAR2 |  |
-| b | K0 | pTT5-S1-F | TAR2 |  |
-| c | pTT5-mIgKL-hCK, plasmid | TAR-Barcode-mIGKL | S12-pTT5-R |  |
-| d |  CMV 5' +mIgKL-hcg1\(barcode\), PCR products | S12-CMV-F | S1-CMV-hcg1-R |  |
+| ID | Template, type | 5'  primer | 3' Primer | Size | Result |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| a | pTT5-mIgKL-hCK, plasmid | pTT5-S1-F | TAR2 | 2Kb | weak |
+| b | K0 | pTT5-S1-F | TAR2 | 2Kb | weak |
+| c | pTT5-mIgKL-hCK, plasmid | TAR-Barcode-mIGKL | S12-pTT5-R | 2.7Kb | weak |
+| d |  CMV 5' +mIgKL-hcg1\(barcode\), PCR products | S12-CMV-F | S1-CMV-hcg1-R | 2.4kb | multiple bands |
 
 * [ ] pTT5-TAR construction
 
