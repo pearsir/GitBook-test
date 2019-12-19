@@ -10,7 +10,7 @@
 | Positive control | 4AL4 HC &LC in pTT5 |
 | transfection number | 4 |
 | transfection plate & volume | 12 well plate, 1mL |
-| Plasmids & PEI usage | 2ug, 4ug |
+| Plasmids & PEI & OptiMEM usage | 2ug, 4ug, 100uL |
 | transfection cell & density | 293T , 6e5/mL |
 
 * [ ] send 3'-TCRb plate for sequencing  
