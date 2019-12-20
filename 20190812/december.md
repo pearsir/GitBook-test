@@ -59,11 +59,29 @@ description: “十二月的某一天阳光显得特别刺眼” 杨宗纬《One
 | c | pTT5-mIgKL-hCK, plasmid | TAR-Barcode-mIGKL | S12-pTT5-R | 2.7Kb | weak |
 | d |  CMV 5' +mIgKL-hcg1\(barcode\), PCR products | S12-CMV-F | S1-CMV-hcg1-R | 2.4kb | multiple bands |
 
-* [ ] pTT5-TAR construction
-
 ## 😊20191220
 
-### Added
+* [ ] pTT5-TAR construction
+
+
+
+* [ ] Duo-V2 construction
+
+| ID | Template, type | 5'  primer | 3' Primer | Size | Result |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| a | pTT5-mIgKL-hCK, plasmid | pTT5-S1-F | TAR2 | 2Kb | okay |
+| c | pTT5-mIgKL-hCK, plasmid | TAR-Barcode-mIGKL | S12-pTT5-R | 2.7Kb | no band  |
+| d |  d from yesterday | S12-CMV-F | S1-CMV-hcg1-R | 2.4kb | okay  |
+| e | MS011\(R1031\) | S12-EF1a-F | TAR9 | 1.3kb | very weak |
+| f | MS011\(R1031\) | S12-EF1a-F | Duo-S1-R\(new\) | 3Kb | weak |
+
+* [ ] mRNA immunization plan
+* [ ] TCRa sequencing
+* [ ] HcAb HindgeNNN RT and PCR
+* [ ] MS13 change vector
+* [ ] R1031 Cell binding
+
+## 😉20191221
 
 * Introduced animals into the world, we believe they're going to be a neat addition.
 
