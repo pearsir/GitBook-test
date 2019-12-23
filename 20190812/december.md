@@ -79,13 +79,27 @@ description: “十二月的某一天阳光显得特别刺眼” 杨宗纬《One
 * [ ] TCRa sequencing
 * [ ] HcAb HindgeNNN RT and PCR
 * [ ] MS13 change vector
-* [ ] R1031 Cell binding
+* [x] R1031 Cell binding FACS
+* [x] pTT5-TrastuzuMab add TAR element
+
+
 
 ## 😉20191221
 
 * Introduced animals into the world, we believe they're going to be a neat addition.
+* [ ] sorting 293F for 查洋，练手AriaIII.
+
+## 🤷‍♂️20191222
+
+* [ ] Jurkat TCRb Sequence analysis
+
+## 😋20191223
+
+* [ ] BCMAxCD3 IgG conc ELISA, hBCMA binding ELISA & CD3e peptide binding ELISA
+* [ ] DuoV2-EF1aCMV & CMV-CMV Colony PCR
+* [ ] pTT5-TAR-Trastuzumab HC&LC colony PCR
+* [ ] 
 
 
 
-## 
 
