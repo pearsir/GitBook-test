@@ -130,8 +130,6 @@ Primestar对于模板要求很严格，今天的5个逆转录PCR反应，2个tot
 >
 > Primer pair for vK：
 
-
-
 * [x] FACS data analysis
 * [x] 293F 细胞传代
 * [x] BCMAxCD3 转染: 50mL 293F, 100ug plasmid+ 200ug PEI 25KD
