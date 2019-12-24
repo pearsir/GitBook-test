@@ -75,11 +75,7 @@ description: “十二月的某一天阳光显得特别刺眼” 杨宗纬《One
 | e | MS011\(R1031\) | S12-EF1a-F | TAR9 | 1.3kb | very weak |
 | f | MS011\(R1031\) | S12-EF1a-F | Duo-S1-R\(new\) | 3Kb | weak |
 
-* [ ] mRNA immunization plan
-* [ ] TCRa sequencing
-* [ ] HcAb HindgeNNN RT and PCR
-* [ ] MS13 change vector
-* [x] R1031 Cell binding FACS
+* [ ] * [x] R1031 Cell binding FACS
 * [x] pTT5-TrastuzuMab add TAR element
 
 
@@ -91,21 +87,56 @@ description: “十二月的某一天阳光显得特别刺眼” 杨宗纬《One
 
 ## 🤷‍♂️20191222
 
-* [ ] Jurkat TCRb Sequence analysis
+* [x] Jurkat TCRb Sequence analysis
 
 ## 😋20191223
 
-* [ ] BCMAxCD3 IgG conc ELISA, hBCMA binding ELISA & CD3e peptide binding ELISA
+* [x] BCMAxCD3 IgG conc ELISA, hBCMA binding ELISA & CD3e peptide binding ELISA
 
 
 
-* [ ] DuoV2-EF1aCMV & CMV-CMV Colony PCR
+* [x] DuoV2-EF1aCMV & CMV-CMV Colony PCR
 
 > Results:
 
-* [ ] pTT5-TAR-Trastuzumab HC&LC colony PCR
-* [ ] 
+* [x] pTT5-TAR-Trastuzumab HC&LC colony PCR
 
+
+
+* [x] HcAb HindgeNNN RT and PCR
+
+
+
+## 🤨20191224
+
+* [ ] HSA HcAb NGS cDNA amplification
+
+{% hint style="info" %}
+1ug totalRNA对于30ul的逆转录反应较多，尤其是如果把全部逆转录的cDNA都当作扩增模板，则不能获得较好的PCR结果。需要稀释10倍左右，如取1ul用于50ulPCR反应。
+
+而今后，一般选用500ng作为单个逆转录反应的上限。
+{% endhint %}
+
+{% hint style="warning" %}
+Primestar对于模板要求很严格，今天的5个逆转录PCR反应，2个total-RNA使用较多\(1ug,850ng\)的都没能扩增出来；而3个total-RNA相对较少\(500ng,200ng,200ng\)的样品则得到了扩增。
+
+而且此前重复过几次，PrimeStar无法用于菌落PCR。
+{% endhint %}
+
+* [ ] work update
+* [ ] MS13 change vector
+
+> Primer pair for vH：
+>
+> Primer pair for vK：
+
+
+
+* [x] FACS data analysis
+* [x] 293F 细胞传代
+* [x] BCMAxCD3 转染: 50mL 293F, 100ug plasmid+ 200ug PEI 25KD
+* [ ]  mRNA immunization plan
+* [ ] TCRa sequencing
 
 
 
