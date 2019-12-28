@@ -136,5 +136,34 @@ Primestar对于模板要求很严格，今天的5个逆转录PCR反应，2个tot
 * [ ]  mRNA immunization plan
 * [ ] TCRa sequencing
 
+## 😶20191225
+
+
+
+* [x] MS13 change vector
+
+> a. transfer MS13 vH&vK from DuoV1 into pTT5-hcg1&hcK,  pTT5-TAR-hcg1&hcK
+
+* [x] HSA \#1&\#2 RT-PCR
+
+{% hint style="info" %}
+1. RT-PCR之前必须去除携带UMI的引物，所以必须进行cDNA纯化；
+2. 纯化可能造成某种损失，同时循环数不宜过高，导致NGS建库上机时丢失多样性，因此PCR反应体积相对较大，25个循环不一定能拿到足够的cDNA
+{% endhint %}
+
+* [ ] Plasmid midi-prep and Transfection
+
+> Trastuzumab with different condition and TAR -/+ plasmid
+
+ 
+
+
+
+## 😑20191226
+
+* [ ] 合成EF1a-CMV和CMV-CMV的菌落PCR引物，或者较给擎科去做。
+* [x] MS13四块平板的菌落PCR
+* [x] 寄送NGS样品
+
 
 
