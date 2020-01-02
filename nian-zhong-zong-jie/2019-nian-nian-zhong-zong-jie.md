@@ -79,11 +79,24 @@ In-house做抗体测序、质粒构建、质粒抽提、转染都可以降低成
 
 > SPLIT-Seq： 借助SPLIT-Seq进行H2L2的抗体文库测序和抗体发现。（经讨论是否做）
 >
-> A
+> HcAb: 继续开拓之前采用的Bone-marrow+Spleen/Lymph-node方法
+>
+> Nova-seq： 测试Nova-seq平台的测序质量。
+>
+> Machine Learning： 了解如何将机器学习应用于抗体发现。
 
+4️⃣mRNA免疫
 
+5️⃣在新项目上杂交瘤结合HTP cloning
 
+> R1031项目证明这个方法可行，过程中出现的一些问题（如Duo质粒的转染条件）也得到了解决，
 
+6️⃣Single B cell culture/cloning
+
+{% hint style="info" %}
+1. 测试single memory B cell /plasma cell的培养，
+2. 结合HTP cloning 进行筛选。
+{% endhint %}
 
 
 
