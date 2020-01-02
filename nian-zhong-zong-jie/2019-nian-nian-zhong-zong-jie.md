@@ -1,8 +1,30 @@
 # 2019小结，2020计划
 
+## Table of Contents
+
 ### **2019 work plan** **\(written at 20-Dec-2018\)**
 
+1. Summary
+2. Single B V-gene recovery
+3. NGS
+   1. NGS for hybridoma/single B  sequencing
+   2. NGS for HcAb sequencing
+   3. NGS for scFv sequencing
+4. IVTT
+5. Duo-promoter
+   1. Duo-V1
+   2. Duo-V2
+   3. Stable expression vector design 
+6. B cell culture
+   1. MSC culture
+   2. Plasma cell culure
+7. Probody
+8. Plan for the next year
+   1. 
+
 ![](../.gitbook/assets/image.png)
+
+
 
 1. Establish workable single B cell cloning method： 
 
@@ -20,7 +42,11 @@
 5. Learn Immune lessons from Single-Cell Organisms to Mammals：
    1. 从其他生物的免疫系统进化当中寻找可能的机会，今年主要是在CD79b靶点的评估和对B细胞发育的梳理中深入了解了B细胞相关的生物学知识。希望新一年继续这一主题的了解。
 
+
+
 ### **2019 tasks** **\(written at 20-Dec-2018\)**
+
+
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
