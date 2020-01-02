@@ -15,5 +15,5 @@
 
 ## 年终总结
 
-* [2019年年终总结](nian-zhong-zong-jie/2019-nian-nian-zhong-zong-jie.md)
+* [Review of 2019 & Plan of 2020](nian-zhong-zong-jie/2019-nian-nian-zhong-zong-jie.md)
 
