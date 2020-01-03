@@ -123,8 +123,8 @@ Primestar对于模板要求很严格，今天的5个逆转录PCR反应，2个tot
 而且此前重复过几次，PrimeStar无法用于菌落PCR。
 {% endhint %}
 
-* [ ] work update
-* [ ] MS13 change vector
+* [x] work update
+* [x] MS13 change vector
 
 > Primer pair for vH：
 >
