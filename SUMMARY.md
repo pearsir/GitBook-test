@@ -8,14 +8,14 @@
   * [2019-12](20190812/december.md)
   * [2020-01](20190812/2020-01.md)
 
+## 年终总结
+
+* [2019小结，2020计划](nian-zhong-zong-jie/2019-nian-nian-zhong-zong-jie.md)
+
 ## New target proposal
 
 * [pakage](new-target-proposal/pakage.md)
 * [Untitled](untitled.md)
-
-## 年终总结
-
-* [2019小结，2020计划](nian-zhong-zong-jie/2019-nian-nian-zhong-zong-jie.md)
 
 ## 要做的
 
