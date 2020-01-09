@@ -83,7 +83,7 @@ description: “十二月的某一天阳光显得特别刺眼” 杨宗纬《One
 ## 😉20191221
 
 * Introduced animals into the world, we believe they're going to be a neat addition.
-* [ ] sorting 293F for 查洋，练手AriaIII.
+* [x] sorting 293F for 查洋，练手AriaIII.
 
 ## 🤷‍♂️20191222
 
